@@ -1,0 +1,41 @@
+User Authentication - Valid Login
+User Authentication - Invalid Password
+User Authentication - Non-existent User
+User Authentication - Account Lockout After Multiple Failed Attempts
+User Authentication - Valid Logout
+Data Validation - Maximum Length Validation
+Data Validation - Email Format Validation
+Data Validation - Special Character Handling
+Data Validation - Required Field Validation
+Data Validation - SQL Injection Attempt
+Search Functionality - Exact Match Search
+Search Functionality - Partial Match Search
+Search Functionality - Case Insensitive Search
+Search Functionality - Special Character Search
+Search Functionality - Empty Search Results
+Search Functionality - Pagination
+CRUD Operations - Create New Record
+CRUD Operations - Read Existing Record
+CRUD Operations - Update Existing Record
+CRUD Operations - Partial Update Record
+CRUD Operations - Delete Record
+CRUD Operations - Delete Non-existent Record
+CRUD Operations - Concurrent Update Handling
+Error Handling - Network Timeout
+Error Handling - Database Connection Error
+Error Handling - Invalid User Permissions
+Error Handling - Service Unavailable
+Security Testing - SQL Injection Prevention
+Security Testing - XSS Prevention in Search
+Security Testing - CSRF Protection
+Security Testing - Authorization Bypass Attempt
+Security Testing - Rate Limiting
+Performance Testing - Baseline Performance
+Performance Testing - Concurrent User Load
+Performance Testing - Stress Test Peak Load
+Error Handling - Graceful Degradation
+Error Handling - Input Sanitization
+Data Validation - Boundary Testing for Numeric Fields
+Search Functionality - Sorting Verification
+CRUD Operations - Validation of Business Rules
+Authentication - Session Timeout Handling
